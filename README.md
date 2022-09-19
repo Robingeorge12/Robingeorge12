@@ -25,10 +25,13 @@ Passion to coding that leads me to create and design *Goog Projects*
    
   <h4>Contact  ...✨</h4>
   <div style={{display:"flex,margin:"auto"}}>
+  <div>
   <a style={{marginLeft:"10px"}} href="https://www.linkedin.com/in/robin-george-909699232" ><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" /> </a>
+  </div>
+  <div>
    <a style={{marginLeft:"20px"}} href="mailto:robingsa.btch@gmail.com" ><img width="50px"  src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" /> </a>
-  
-    </div>
+  </div>
+                             </div>
                                                                                                                        
 <!--
 **Robingeorge12/Robingeorge12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
