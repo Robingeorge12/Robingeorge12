@@ -8,7 +8,7 @@ Passion to coding that leads me to create and design *Goog Projects*
 💬 Ask me about HTML, CSS, React, node.js, Express.js, Javascript , Chakra....<br>
 
 
-<img width="200px" heigth="200px" src="https://img.freepik.com/premium-vector/full-stack-developer-is-working-computers_173125-65.jpg?w=2000"/>
+<img width="500px" heigth="500px" src="https://img.freepik.com/premium-vector/full-stack-developer-is-working-computers_173125-65.jpg?w=2000"/>
 
 
 <h3>⚡ Fun fact: ... </h3>
