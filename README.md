@@ -1,5 +1,5 @@
-### Hi there 👋
-### I am ROBIN GEORGE
+###<h1> Hi there 👋</h1>
+###<h3> I am</h3><h2> ROBIN GEORGE</h2>
 
 🌱  <h3>I’m currently learning  ...</h3><br>
 ⚡ <h4> I am a passionate Full Stack Web Developer with handsome knowled in JavaScript , ReactJS  ...Redux..</h4><br>
