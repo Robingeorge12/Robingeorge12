@@ -11,14 +11,17 @@ Passion to coding that leads me to create and design *Goog Projects*
 <img src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966"/>
 
 
-<h3<⚡ Fun fact: ... </h3>
+<h3>⚡ Fun fact: ... </h3>
 <div style={{display:"flex,margin:"auto"}}> 
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
-                                                                                                                       </div>                                                                                                                  
+                                                                                                                       </div>  
+                                                                                                                       
+   <img src="https://camo.githubusercontent.com/8a9a1273f552c06f267681032ff5e10263bfe34ddaabcf14c9e1221861b8167c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d417664686f6f742d4b75726865266c61796f75743d636f6d70616374" />
+                                                                                                                       
 <!--
 **Robingeorge12/Robingeorge12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
