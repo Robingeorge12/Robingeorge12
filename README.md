@@ -12,7 +12,7 @@ Passion to coding that leads me to create and design *Goog Projects*
 
 
 <h3>⚡ Fun fact: ... </h3>
-<div style={{display:"flex,margin:"auto"}}> 
+<div style={{display:"flex,margin:"auto" ,marginLeft:"100px"}}> 
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
