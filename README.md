@@ -1,5 +1,5 @@
-###<h1> Hi there 👋</h1>
-###<h3> I am</h3><h2> ROBIN GEORGE</h2>
+<h1> Hi there 👋</h1>
+<h3> I am</h3><h2> ROBIN GEORGE</h2>
 
 🌱  <h3>I’m currently learning  ...</h3><br>
 ⚡ <h4> I am a passionate Full Stack Web Developer with handsome knowled in JavaScript , ReactJS  ...Redux..</h4><br>
@@ -25,12 +25,11 @@ Passion to coding that leads me to create and design *Goog Projects*
    
   <h4>Contact  ...✨</h4>
   <div style={{display:"flex,margin:"auto"}}>
-  <div>
-  <a style={{marginLeft:"10px"}} href="https://www.linkedin.com/in/robin-george-909699232" ><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" /> </a>
-  </div>
-  <div>
-   <a style={{marginLeft:"20px"}} href="mailto:robingsa.btch@gmail.com" ><img width="50px"  src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" /> </a>
-  </div>
+
+  <a style={{marginLeft:"10px"}} href="https://www.linkedin.com/in/robin-george-909699232" ><img style={{marginLeft:"10px"}} width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" /> </a>
+ 
+   <a style={{marginLeft:"20px"}} href="mailto:robingsa.btch@gmail.com" ><img style={{marginLeft:"20px"}} width="50px"  src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" /> </a>
+
                              </div>
                                                                                                                        
 <!--
