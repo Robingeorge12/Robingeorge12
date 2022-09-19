@@ -1,6 +1,6 @@
 ### Hi there 👋
-### I ##am ROBIN GEORGE
-<!------
+### I am ROBIN GEORGE
+
 🌱  #I’m currently learning  ...
 ⚡ # I am a passionate Full Stack Web Developer with handsome knowled in JavaScript , ReactJS  ...Redux.. #
 Passion to coding that leads me creating and designing *Goog Projects*
