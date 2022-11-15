@@ -11,14 +11,26 @@ Passion to coding that leads me to create and design *Goog Projects*
 <img width="500px" heigth="500px" src="https://img.freepik.com/premium-vector/full-stack-developer-is-working-computers_173125-65.jpg?w=2000"/>
 
 
-<h3>⚡ Fun fact: ... </h3>
+<h3>Tech Stack </h3>
+
 <div style={{display:"flex,margin:"auto" ,marginLeft:"100px",align:"center"}}> 
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-<img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
-                                                                                                                       </div> <br> 
+<img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
+<img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+<img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+<img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />                                                 
+<img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />                                                  
+<img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />                
+                                                                                                                    
+                                                                                                                    
+                                                                                                                    
+ </div> <br> 
+  <h3>Github Stats</h3>
+                                                                                                                       
+   <img src="https://streak-stats.demolab.com?user=Robingeorge12&border_radius=4" />                                                                                                                      
                                                                                                                        
    <img src="https://camo.githubusercontent.com/8a9a1273f552c06f267681032ff5e10263bfe34ddaabcf14c9e1221861b8167c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d417664686f6f742d4b75726865266c61796f75743d636f6d70616374" />
    <br>
@@ -28,6 +40,10 @@ Passion to coding that leads me to create and design *Goog Projects*
   <a style={{marginLeft:"10px"}} href="https://www.linkedin.com/in/robin-george-909699232" ><img style={{marginLeft:"10px"}} width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" /> </a>
    <a style={{marginLeft:"20px"}} href="mailto:robingsa.btch@gmail.com" ><img style={{marginLeft:"20px"}} width="50px"  src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" /> </a>
   </div>
+  
+  
+
+  
                                                                                                                        
 <!--
 **Robingeorge12/Robingeorge12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
